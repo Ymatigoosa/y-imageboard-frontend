@@ -1,7 +1,7 @@
 {
-  "name": "react-way-getting-started",
-  "version": "1.0.0",
-  "description": "The React Way - Getting Started",
+  "name": "y-imageboard-frontend",
+  "version": "0.0.1",
+  "description": "work in progress...",
   "main": "src/server/index.js",
   "scripts": {
     "test": "jest",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RisingStack/react-way-getting-started.git"
+    "url": "https://github.com/pahomovda/y-imageboard-frontend.git"
   },
-  "author": "RisingStack, Peter Marton",
+  "author": "Pahomov Dmitry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RisingStack/react-way-getting-started/issues"
+    "url": "https://github.com/pahomovda/y-imageboard-frontend/issues"
   },
-  "homepage": "https://github.com/RisingStack/react-way-getting-started",
+  "homepage": "https://github.com/pahomovda/y-imageboard-frontend",
   "dependencies": {
     "debug": "^2.2.0",
     "express": "^4.12.4",
