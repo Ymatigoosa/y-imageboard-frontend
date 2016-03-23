@@ -1,6 +1,6 @@
 # y-imageboard-frontend
 
-work in progress
+abandoned project
 
 **based on**
 
